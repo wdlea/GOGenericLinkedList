@@ -1,3 +1,3 @@
-module github.com/wdlea/LinkedList
+module github.com/wdlea/GOGenericLinkedList
 
 go 1.20
